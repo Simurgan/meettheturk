@@ -1,14 +1,14 @@
 # Meet the Turk.
-He does more than just past through life. He lives it. To the full. He smokes for pleasure. Do you?
+O, günlerini öylesine geçirmekten fazlasını yapar. Hayatı yaşar. Dibine kadar. Keyif için içer. Ya sen?
 
-Will include:
+Burada şunlar yer alacak:
 
-- **Overview**: Description of the project and its purpose.
-- **Features**: Key functionalities of the platform.
-- **Technologies Used**: List of technologies for frontend, backend, and deployment.
-- **Installation**: Detailed instructions for setting up the backend and frontend.
-- **Usage**: Information on accessing and using the application.
-- **Contributing**: Guidelines for contributing to the project.
-- **Roadmap**: Planned features and milestones.
-- **License**: Information on the project’s license.
-- **Contact**: How to get in touch with the project lead and report issues.
+- **Genel Bakış**: Projenin amacı ve açıklaması
+- **Özellikler**: Platformun temel fonksiyonları
+- **Kullanılan Teknolojiler**: Frontend, backend, ve deploymentta kullanılan teknolojiler.
+- **Kurulum**: Backend ve frontendin kurulumu için detaylı adımlar.
+- **Kullanım**: Uygulamaya erişim ve kullanım hakkında bilgiler.
+- **Katkıda bulunmak için**: Projeye katkıda bulunmak için kılavuz.
+- **Yol haritası**: Planlanan özellikler ve kilometre taşları.
+- **Lisans**: Proje lisansına dair detaylı bilgiler.
+- **İletişim**: Projeyle ilgili geri dönüşlerin, bugların vs nasıl bildirileceği ve proje yürütücüleri ile nasıl iletişime geçileceği.
